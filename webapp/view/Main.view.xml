@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <Text text="Hello world!"/>
+        <Text text="Welcome to today's session"/>
     </Page>
 </mvc:View>
