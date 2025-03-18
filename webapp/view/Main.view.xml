@@ -5,5 +5,6 @@
         <Text text="Hello world, <placeholder name>!"/>
         <Text text="Welcome to today's session"/>
         <Button text="Press me"/>
+        <Button text="Another button"/>
     </Page>
 </mvc:View>
