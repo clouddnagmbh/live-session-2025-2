@@ -4,5 +4,6 @@
     <Page id="page" title="{i18n>title}">
         <Text text="Hello world, <placeholder name>!"/>
         <Text text="Welcome to today's session"/>
+        <Button text="Press me"/>
     </Page>
 </mvc:View>
